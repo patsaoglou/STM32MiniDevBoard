@@ -1,0 +1,32 @@
+Designator,Comment,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+FB1,600O@100MHz,Top,FER_0805_2012,103.4,77.2043,180,FERRITE BEAD 600 OHM 0805 1LN
+Y1,NX3225GA-16.000M-STD-CRG-2,Top,FP-NX3225GA-MFG,68,82.25,270,CRYSTAL 16.0000MHZ 8PF SMD
+U2,AMS1117-3.3,Top,FP-AMS1117-IPC_C,93.75,76.5,0,"LDO Voltage Regulators 1A, 3.3V"
+U1,STM32F103C8T6,Top,STM-LQFP48_L,81.75,80,270,"ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tray"
+R4,Resistor 10k +/-1% 0402 100 mW,Top,RESC1005X40X25ML05T05,70.75,86.75,0,"Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric)"
+R3,Resistor 10k +/-1% 0402 100 mW,Top,RESC1005X40X25ML05T05,99.8458,71.9,180,"Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric)"
+R2,Resistor 10k +/-1% 0402 100 mW,Top,RESC1005X40X25ML05T05,93.9,84.6,90,"Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric)"
+R1,Resistor 10k +/-1% 0402 100 mW,Top,RESC1005X40X25ML05T05,89.5,82,90,"Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric)"
+P5,Header 2,Top,HDR1X2,102.7008,84.82,270,"Header, 2-Pin"
+P4,Header 18,Top,HDR1X18,88.06,68.25,0,"Header, 18-Pin"
+P3,Header 2,Top,HDR1X2,99.4508,84.78,270,"Header, 2-Pin"
+P2,Header 2,Top,HDR1X2,96.2007,84.78,90,"Header, 2-Pin"
+P1,Header 18,Top,HDR1X18,88.1,91,180,"Header, 18-Pin"
+J1,473460001,Top,FP-473460001-MFG,108.77,79.5,90,CONN RCPT USB2.0 MICRO B SMD R/A
+DS2,TLMS1100-GS08,Top,VISH-TLMX1100_V,71,85.25,0,"Red Led, 20mA, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+DS1,TLMS1100-GS08,Top,VISH-TLMX1100_V,96.75,71.8957,180,"Red Led, 20mA, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+C15,Capacitor 1uF +/- 10% 16V 0603,Top,CAPC1608X90X35ML15T15,102.25,74.125,90,"Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)"
+C14,Capacitor 1uF +/- 10% 16V 0603,Top,CAPC1608X90X35ML15T15,104.75,74.125,90,"Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)"
+C13,Capacitor 1uF +/- 10% 16V 0603,Top,CAPC1608X90X35ML15T15,70,78.5958,0,"Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)"
+C12,Capacitor 10nF +/-20% 50V 0402,Top,CAPC0402(1005)60_L,72.75,79.5,270,"Chip Capacitor, 10nF +/-20%, 50V, 0402, Thickness 0.6 mm"
+C11,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,74.5,79.5,270,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+C10,Capacitor 4.7µF +/-40% 25V 0805,Top,CAPC0805(2012)145_L,73.8,84.605,270,"Chip Capacitor, 4.7µF +/-40%, 25V, 0805, Thickness 1.45 mm"
+C9,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,85,74.0116,0,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+C8,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,88.1957,83,90,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+C7,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,78.5,86,180,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+C6,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,75.7,83.6,270,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+C5,22u,Top,CAP_1206_3216_-_0.8MM,88.25,74.25,90,CAP CER 22UF 25V X6S 1206
+C4,22u,Top,CAP_1206_3216_-_0.8MM,99.5,75.75,90,CAP CER 22UF 25V X6S 1206
+C3,Capacitor 10 pF +/- 0.25 pF 50 V 0402,Top,CAPC1005X55X30LL05T10,71,80.75,90,"Chip Capacitor, 10 pF, +/- 0.25 pF, 50 V, 0402 (1005 Metric)"
+C2,Capacitor 10 pF +/- 0.25 pF 50 V 0402,Top,CAPC1005X55X30LL05T10,71,82.7,270,"Chip Capacitor, 10 pF, +/- 0.25 pF, 50 V, 0402 (1005 Metric)"
+C1,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,104.8,85.6,90,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
