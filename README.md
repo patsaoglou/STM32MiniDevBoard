@@ -6,6 +6,6 @@ In this repository i share the Gerber, CPL, and BOM files which are configured f
 
 If you have any questions or you would like to recommend any changes to the design feel free to contact me. I would highly appreciate it!
 
-Youtube Live link: https://www.youtube.com/watch?v=hc0Lgl1qxJg
+YouTube Live link: https://www.youtube.com/watch?v=hc0Lgl1qxJg
 
 There will be an overview video to the channel in case i get the boards so you can stay tuned by subbing to the channel!
