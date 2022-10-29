@@ -9,3 +9,9 @@ If you have any questions or you would like to recommend any changes to the desi
 YouTube Live link: https://www.youtube.com/watch?v=hc0Lgl1qxJg
 
 There will be an overview video to the channel in case i get the boards so you can stay tuned by subbing to the channel!
+
+Schematic:
+![SchematicImage](https://user-images.githubusercontent.com/93339707/198836583-4155e1d4-3527-4ebe-8de2-969d167f4b06.PNG)
+
+PCB:
+![PCBImage](https://user-images.githubusercontent.com/93339707/198836724-3db8fe21-c28e-458d-8f07-3160605ce569.PNG)
