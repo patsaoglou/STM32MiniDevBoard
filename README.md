@@ -14,4 +14,5 @@ There will be an overview video to the channel in case i get the boards so you c
 ![SchematicImage](https://user-images.githubusercontent.com/93339707/198836583-4155e1d4-3527-4ebe-8de2-969d167f4b06.PNG)
 
 # PCB:
-![PCBImage](https://user-images.githubusercontent.com/93339707/198836724-3db8fe21-c28e-458d-8f07-3160605ce569.PNG)
+![PCBImage](https://user-images.githubusercontent.com/93339707/198841707-8de44885-a569-40a6-bc56-f4589c4abdc8.PNG)
+
