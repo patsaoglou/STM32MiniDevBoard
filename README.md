@@ -1,6 +1,6 @@
 # STM32MiniDevBoardV1
 
-This mini development board is based to a STM32F103C8T6 and has external pins to interface with all of the mcu io pins. The form factor is 4.7x2.8mm. The board is powered from the +5V USB rail or a 5V external pin and it is regulated down to 3.3V using an AMS1117-3.3 LDO regulator. 
+This mini development board is based to a STM32F103C8T6 and has external pins to interface with all of the mcu io pins. The form factor is 4.7x2.8cm. The board is powered from the +5V USB rail or a 5V external pin and it is regulated down to 3.3V using an AMS1117-3.3 LDO regulator. 
 
 In this repository i share the Gerber, CPL, and BOM files which are configured for JLCPCB manufacturing. I do not have the boards on hand at the moment and i will update the repo in case i make the order.
 
