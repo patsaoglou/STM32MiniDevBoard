@@ -20,11 +20,11 @@ C14,Capacitor 1uF +/- 10% 16V 0603,Top,CAPC1608X90X35ML15T15,104.75,74.125,90,"C
 C13,Capacitor 1uF +/- 10% 16V 0603,Top,CAPC1608X90X35ML15T15,70,78.5958,0,"Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)"
 C12,Capacitor 10nF +/-20% 50V 0402,Top,CAPC0402(1005)60_L,72.75,79.5,270,"Chip Capacitor, 10nF +/-20%, 50V, 0402, Thickness 0.6 mm"
 C11,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,74.5,79.5,270,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
-C10,Capacitor 4.7µF +/-40% 25V 0805,Top,CAPC0805(2012)145_L,73.8,84.605,270,"Chip Capacitor, 4.7µF +/-40%, 25V, 0805, Thickness 1.45 mm"
+C10,Capacitor 4.7µF +/-40% 25V 0805,Top,CAPC0805(2012)145_L,73.5,84.605,270,"Chip Capacitor, 4.7µF +/-40%, 25V, 0805, Thickness 1.45 mm"
 C9,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,85,74.0116,0,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
 C8,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,88.1957,83,90,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
 C7,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,78.5,86,180,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
-C6,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,75.7,83.6,270,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
+C6,Capacitor 100nF +/-20% 25V 0402,Top,CAPC0402(1005)60_L,75.9125,83.5949,270,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"
 C5,22u,Top,CAP_1206_3216_-_0.8MM,88.25,74.25,90,CAP CER 22UF 25V X6S 1206
 C4,22u,Top,CAP_1206_3216_-_0.8MM,99.5,75.75,90,CAP CER 22UF 25V X6S 1206
 C3,Capacitor 10 pF +/- 0.25 pF 50 V 0402,Top,CAPC1005X55X30LL05T10,71,80.75,90,"Chip Capacitor, 10 pF, +/- 0.25 pF, 50 V, 0402 (1005 Metric)"
